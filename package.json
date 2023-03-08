@@ -1,7 +1,7 @@
 {
   "name": "react-itimeslot",
-  "version": "1.0.0",
-  "private": true,
+  "description": "React-iTimeslot is a React component that can be use for any developer to handle timeslot.",
+  "version": "1.0.1",
   "main": "App.js",
   "repository": {
     "type": "npm",
